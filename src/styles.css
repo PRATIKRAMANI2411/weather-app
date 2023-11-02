@@ -1,0 +1,42 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 600px;
+  border-radius: 20px;
+  background-color: #01579b;
+  padding: 10px;
+}
+
+.App .main-name {
+  color: whitesmoke;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.day {
+  padding: 7px;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.temp {
+  padding: 7px;
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.sunrise-sunset {
+  padding: 7px;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.description {
+  padding: 7px;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 600;
+}
